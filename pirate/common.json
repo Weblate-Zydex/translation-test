@@ -1,5 +1,11 @@
 {
-  "title": {
-    "webPortal": "Asig'arr Web Portal {{version}}"
-  }
+    "title": {
+        "webPortal": "Asig'arr Web Portal {{version}}"
+    },
+    "alt": {
+        "logo": "pirate - Asiga Logo."
+    },
+    "boolean": {
+        "false": "pirate - false"
+    }
 }
